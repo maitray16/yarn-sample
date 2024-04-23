@@ -58,7 +58,7 @@
     "gatsby-source-filesystem": "2.11.1",
     "gatsby-transformer-react-docgen": "^5.9.0",
     "gatsby-transformer-remark": "^2.16.1",
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^5.0.0",
     "holderjs": "^2.9.9",
     "import-sort-cli": "^6.0.0",
     "import-sort-parser-4catalyzer": "^4.0.1",
